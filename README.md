@@ -286,6 +286,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
 * [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 * [dataloader](https://github.com/nicksrandall/dataloader) - Implementation of Facebook's DataLoader in Golang
+* [appointy/jaal](https://github.com/appointy/jaal) - Develop spec compliant GraphQL servers in Go
 
 <a name="lib-scala" />
 
